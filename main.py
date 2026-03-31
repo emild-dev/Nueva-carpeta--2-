@@ -1,1 +1,0 @@
-print("El perro argentino come empanadas con huevo")
